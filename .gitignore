@@ -1,4 +1,5 @@
 __pycache__
 logs/
 results/
+webdrivers/
 *.json
